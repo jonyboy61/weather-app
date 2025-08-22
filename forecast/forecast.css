@@ -89,26 +89,27 @@ header{
 }
 
 .sunny {
-  background: linear-gradient(to bottom, #fdd835, #ffee58);
+  background: #fff9c4; /* amarelo claro */
   color: #333;
 }
 
 .rainy {
-  background: linear-gradient(to bottom, #4fc3f7, #81d4fa);
+  background: #bbdefb; /* azul clarinho */
   color: #003c6c;
 }
 
 .cloudy {
-  background: linear-gradient(to bottom, #cfd8dc, #90a4ae);
+  background: #cfd8dc; /* cinza neutro */
   color: #212121;
 }
 
 .cold {
-  background: linear-gradient(to bottom, #b3e5fc, #e1f5fe);
+  background: #e1f5fe; /* azul gelo */
   color: #01579b;
 }
 
 .default-weather {
-  background: #e0e0e0;
+  background: #f5f7fa;
   color: #333;
 }
+
