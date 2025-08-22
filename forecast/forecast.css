@@ -11,9 +11,10 @@
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(to bottom, #74ebd5, #ACB6E5);
+    /*background: linear-gradient(to bottom, #74ebd5, #ACB6E5);*/
     margin: 0;
     padding: 20px;
+    background: #f5f7fa;
 }
 
 header{
